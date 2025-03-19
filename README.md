@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects related to web development and Java
 - 📫 How to reach me meena220405@gmail.com
 - 😄 Pronouns: Her
-- ⚡ Fun fact: Cyber security aspirant; Started coding since school .
+- ⚡ Fun fact: Started coding since school .
 
 <!---
 MeenakshiIriventi/MeenakshiIriventi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
